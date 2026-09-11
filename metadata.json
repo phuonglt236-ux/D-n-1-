@@ -1,0 +1,6 @@
+{
+  "name": "Bảng Tuần Hoàn Quest",
+  "description": "Chuyến phiêu lưu trong bảng tuần hoàn - Ứng dụng Web App và Game tương tác Khoa học Tự nhiên 7",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
